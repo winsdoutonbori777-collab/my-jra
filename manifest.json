@@ -1,12 +1,20 @@
-json"icons": [
-  {
-    "src": "/my-jra/icon-192x192.png",
-    "sizes": "192x192",
-    "type": "image/png"
-  },
-  {
-    "src": "/my-jra/icon-512x512.png",
-    "sizes": "512x512",
-    "type": "image/png"
-  }
-]
+{
+  "name": "My PWA App",
+  "short_name": "PWAApp",
+  "start_url": "/my-jra/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#317EFB",
+  "icons": [
+    {
+      "src": "/my-jra/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/my-jra/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
