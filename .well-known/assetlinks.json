@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.kazu777.myjra",
+        "sha256_cert_fingerprints": ["FD:58:7B:80:4E:53:B3:36:7F:EC:DA:AA:AB:D2:21:90:03:E4:DA:EF:FE:59:5C:EA:BB:A4:2D:DA:2E:F1:BE:75"]
+      }
+    }]
