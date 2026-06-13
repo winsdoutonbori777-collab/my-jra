@@ -1,6 +1,6 @@
 {
-  "name": "My PWA App",
-  "short_name": "PWAApp",
+  "name": "競馬aid",
+  "short_name": "競馬aid",
   "start_url": "/my-jra/",
   "display": "standalone",
   "background_color": "#ffffff",
